@@ -1,0 +1,43 @@
+.store-container{
+    margin-top: 3px;
+    text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+}
+
+.image{
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.body-container1{
+    margin-right: 30px;
+}
+
+.galery-container{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    border-style: solid;
+    width: 500px;
+    height: 500px;
+    margin-left: 435px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-ig {
+    margin-left: 650px;
+}
+
+.p-container{
+    text-align: center;
+}
+
+.h2-container{
+    margin-top: 5px;
+    text-align: center;
+}
+
+
