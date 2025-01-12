@@ -1,7 +1,19 @@
+.body-container{
+    background-color: rgb(227, 227, 227);
+}
+
 .store-container{
     margin-top: 3px;
     text-align: center;
    font-family: 'Times New Roman', Times, serif;
+}
+
+.satrio1 {
+    padding-top: 20px;
+}
+
+.satrio3{
+    padding-top: 30px;
 }
 
 .image{
@@ -28,6 +40,7 @@
 }
 
 .img-ig {
+    padding-top: 20px;
     margin-left: 650px;
 }
 
@@ -40,4 +53,16 @@
     text-align: center;
 }
 
+.p-container2{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    
+}
 
